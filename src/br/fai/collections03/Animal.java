@@ -14,12 +14,11 @@ public abstract class Animal {
 	
 	private void dizerMinhaIdade() {
 		
-		System.out.println("minha idade é: yyyy ");
+		System.out.println("minha idade é: yyyyy ");
 	}
 	
-	private String cor = "preto";
 	public String getCor() {
-		return cor;
+	return cor;
 	}
 
 	public void setCor(String cor) {
