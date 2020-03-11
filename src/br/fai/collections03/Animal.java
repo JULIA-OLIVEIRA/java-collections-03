@@ -14,7 +14,7 @@ public abstract class Animal {
 	
 	private void dizerMinhaIdade() {
 		
-		System.out.println("minha idade é: yyyyy ");
+		System.out.println("minha idade é: yyyyyy ");
 	}
 	
 	public String getCor() {
